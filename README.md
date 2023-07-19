@@ -2,8 +2,8 @@
 Web-application that supports authentication, registration and other CRUD operations.
 
 # 🚀 Features
-- registration like a driver
-- authentication like a driver
+- register as a driver;
+- authentication as a driver
 - create/update/remove a driver
 - create/update/remove a country
 - create/update/remove a manufacturer
@@ -14,7 +14,14 @@ Web-application that supports authentication, registration and other CRUD operat
 You can test and see how the program works by following this link: [Link](http://taxi-env.eba-ppngpufp.eu-west-2.elasticbeanstalk.com/)
 
 # Used technologies
-Maven, Java programming language (JDK 11), JDBC, Java Servlet, JSP and HTML, Tomcat 9.0.50, MySQL 8.0.
+- Java 11
+- JDBC
+- Servlet API 4.0.1
+- JSP and HTML
+- JSTL 1.2
+- Maven 3.1.1
+- MySQL 8.0
+- Tomcat 9.0.50
 
 # Project structure
 This project is designed to meet the standards of multi-level architecture. Therefore, the project is divided into the following levels:
